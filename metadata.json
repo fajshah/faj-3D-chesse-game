@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster 3D Chess",
+  "description": "An immersive 3D chess game with rich procedural wooden and marble pieces, dynamic camera, AI and pass-and-play modes, touch and click controls for mobile and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
